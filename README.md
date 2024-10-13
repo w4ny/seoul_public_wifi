@@ -23,6 +23,5 @@
 ![WIFI-ERD (2)](https://github.com/user-attachments/assets/dc4d03f4-61da-4706-a545-c9512fb02de5)
 
 ## 📍 영상
-https://www.youtube.com/watch?v=KLvpE_Ii9Eg
 [![video Label](http://img.youtube.com/vi/KLvpE_Ii9Eg/0.jpg)](https://youtube.be/KLvpE_Ii9Eg)
 
