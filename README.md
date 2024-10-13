@@ -25,3 +25,5 @@
 ## 📍 영상
 [![video Label](http://img.youtube.com/vi/KLvpE_Ii9Eg/0.jpg)](https://youtube.be/KLvpE_Ii9Eg)
 
+## 추가 사항
+- Projects/seoul_public_wifi 파일에 db 파일 첨부
